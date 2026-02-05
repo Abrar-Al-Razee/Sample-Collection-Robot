@@ -176,8 +176,9 @@ Image for the cover photo
 
 ![Cover](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMwNjQsInB1ciI6ImJsb2JfaWQifX0=--86d9c2fdab7dd620fab10548111e7f4e324ddc19/Screenshot%202025-12-31%20at%202.23.17%E2%80%AFPM.png)
 
+**Cart Image**
 
-![pic 1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMwNjAsInB1ciI6ImJsb2JfaWQifX0=--2a2fd2e3967e53cf397f72c78a2484b5deb26246/Screenshot%202026-01-27%20at%2011.13.12%E2%80%AFPM.png)!
+![pic 1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMwNjAsInB1ciI6ImJsb2JfaWQifX0=--2a2fd2e3967e53cf397f72c78a2484b5deb26246/Screenshot%202026-01-27%20at%2011.13.12%E2%80%AFPM.png)
 ![Pic2](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTMwNTksInB1ciI6ImJsb2JfaWQifX0=--0c0c8a1562180ce669959669e00fc6f39b57fef8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/Screenshot%202026-01-27%20at%2011.12.57%E2%80%AFPM.png)
   
 
